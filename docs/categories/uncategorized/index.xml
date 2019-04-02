@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>しおりんのはっけん</title>
-    <link>https://sh1027.github.io/myblog/</link>
-    <description>Recent content on しおりんのはっけん</description>
+    <title>Uncategorized on しおりんのはっけん</title>
+    <link>https://sh1027.github.io/myblog/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on しおりんのはっけん</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 02 Apr 2019 13:59:06 +0900</lastBuildDate>
     
-	<atom:link href="https://sh1027.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sh1027.github.io/myblog/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,15 +22,6 @@
 ブログの名前はあだ名のしおりんから連想してみました。今後変わるかもです笑
 このブログは静的サイトジェネレーターのHugoとGitHub Pagesで作っています。GitHub Pagesは以前使ったことがあって、サーバーを用意せずに無料で使えるのが魅力的だったので今回も使ってみることにしました。Hugoはこのブログを作る際に知ったのですが、気軽にWebページを公開できとても便利です。どうやってこのブログを作ったかはまた別に書くつもりです。
 完全な自己満ブログですがよろしくお願いします！</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://sh1027.github.io/myblog/2019/04/first/</link>
-      <pubDate>Mon, 01 Apr 2019 16:25:36 +0900</pubDate>
-      
-      <guid>https://sh1027.github.io/myblog/2019/04/first/</guid>
-      <description>はじめての記事作成、本文サンプルです。</description>
     </item>
     
   </channel>
