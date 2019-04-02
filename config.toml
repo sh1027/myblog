@@ -37,10 +37,10 @@ publishDir = "docs"
   job = "大学2年生.<br>情報工学科."
   location = "Chiba, Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "@gmail.com"
+  # gravatarEmail = "@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "://lh3.googleusercontent.com/eNjS_h3B0Qt05WmV02pV4nEj6o6Wb2vBhoefLZad-oL99Uo3gUVCKLQotc2GgDoJGVE750y2kp22PADVcv9i25owcryvO-jSj4xXdb_B9fKGUPDa8Vfhzm_M1uupm1q4QdYZBcuKsKg49dQKNGgJFQkhZq_77OYes3A6YF63McOU8t2wo3v_eBlKZpbz103LMMCVJnRThU-EqDUfVtQFiIPH_mQg0O8dDa6qsVtHTGqCgPpxFFK4yrv0OpZzGdLYkWMdcLPIZDPWVW3-pXBX7UhzBphkNUTLk-cAQyydUBs7XbFJ_pl68gHkKxXueJEUvTa2m1-U2VJipywSe25AreYWbCIAh6cKGn6ITI7oiTRv14H3FkxPoDVVJ1oUJsgvfns38boPeKQt8TQqKSDg6Bnre5ESroJuYfq8xK4yQKtbldWim-y0UvmmHsenrGrtrUnfcnkwGSnlTnKqmKizBzPj2icETVKezHLIiAjgoOglpV8ItRpJzT865v9J3o_hfoPD-2dvqJgb5Ph9NzSTYMEwSAwqmePzfoKr5FuwjhDEMbOUo1f5CwlRMuPaKwAtPhYuX_wX1k9sInZy78yXLJ-un23c6D8P7fCdsShYaf9GKSZz9IvzyyzDrDh20EYOsbozaIRRmVHh3piJekC_Q0xrW467abwj=s356-no"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
