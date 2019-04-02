@@ -33,9 +33,9 @@ publishDir = "docs"
 
 [author]
   name = "Shiori Ueda"
-  bio = "趣味はカメラとお出かけ.もっといろんなところ行ってみたいな."
-  job = "大学2年生. 情報工学科."
-  location = "Chiba,Japan"
+  bio = "趣味はカメラとお出かけ.<br>もっといろんなところ行ってみたいな."
+  job = "大学2年生.<br>情報工学科."
+  location = "Chiba, Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "@gmail.com"
   # Your profile picture
