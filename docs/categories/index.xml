@@ -19,5 +19,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>カフェ</title>
+      <link>https://sh1027.github.io/myblog/categories/%E3%82%AB%E3%83%95%E3%82%A7/</link>
+      <pubDate>Tue, 09 Apr 2019 14:23:33 +0900</pubDate>
+      
+      <guid>https://sh1027.github.io/myblog/categories/%E3%82%AB%E3%83%95%E3%82%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>食べ物</title>
+      <link>https://sh1027.github.io/myblog/categories/%E9%A3%9F%E3%81%B9%E7%89%A9/</link>
+      <pubDate>Tue, 09 Apr 2019 14:23:33 +0900</pubDate>
+      
+      <guid>https://sh1027.github.io/myblog/categories/%E9%A3%9F%E3%81%B9%E7%89%A9/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
