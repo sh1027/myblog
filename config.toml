@@ -35,7 +35,7 @@ hasCJKLanguage = true
 [author]
   name = "Shiori Ueda"
   bio = "趣味はカメラとお出かけ.<br>いろんなところ行ってみたい."
-  job = "大学2年生.<br>情報工学科."
+  job = "大学生"
   location = "Chiba, Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "@gmail.com"
