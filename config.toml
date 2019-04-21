@@ -22,6 +22,7 @@ googleAnalytics = "UA-138157883-1"
 paginate = 7
 canonifyurls = true
 publishDir = "docs"
+hasCJKLanguage = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
