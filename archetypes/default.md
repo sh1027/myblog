@@ -9,7 +9,7 @@ tags:
 - tag2
 keywords:
 - tech
-thumbnailImage: //example.com/image.jpg
+coverImage: //example.com/image.jpg
 draft: true
 ---
 

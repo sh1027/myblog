@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>しおりんのはっけん</title>
-    <link>https://sh1027.github.io/myblog/</link>
-    <description>Recent content on しおりんのはっけん</description>
+    <title>お出かけ on しおりんのはっけん</title>
+    <link>https://sh1027.github.io/myblog/categories/%E3%81%8A%E5%87%BA%E3%81%8B%E3%81%91/</link>
+    <description>Recent content in お出かけ on しおりんのはっけん</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 01 May 2019 13:01:11 +0900</lastBuildDate>
     
-	<atom:link href="https://sh1027.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sh1027.github.io/myblog/categories/%E3%81%8A%E5%87%BA%E3%81%8B%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,24 +27,6 @@
       
       <guid>https://sh1027.github.io/myblog/2019/04/%E3%81%B2%E3%81%A8%E3%82%8A%E6%97%85%E8%A8%98%E9%8C%B2/</guid>
       <description>春休みの終わりに、ひとり旅をしてきました！青春18きっぷが1回分余っていたので、せっかくだからカメラ旅をしようと思い立ったのがきっかけです。</description>
-    </item>
-    
-    <item>
-      <title>美味しいタピオカ発見！</title>
-      <link>https://sh1027.github.io/myblog/2019/04/%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%BF%E3%83%94%E3%82%AA%E3%82%AB%E7%99%BA%E8%A6%8B/</link>
-      <pubDate>Tue, 09 Apr 2019 14:23:33 +0900</pubDate>
-      
-      <guid>https://sh1027.github.io/myblog/2019/04/%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%BF%E3%83%94%E3%82%AA%E3%82%AB%E7%99%BA%E8%A6%8B/</guid>
-      <description>私は大のタピオカ好きで日常的にタピオカを飲んでいるのですが、最近とっても美味しいタピオカを見つけました。 それは、tea stand&amp;helli</description>
-    </item>
-    
-    <item>
-      <title>ブログ開設しました！</title>
-      <link>https://sh1027.github.io/myblog/2019/04/%E3%83%96%E3%83%AD%E3%82%B0%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <pubDate>Tue, 02 Apr 2019 13:59:06 +0900</pubDate>
-      
-      <guid>https://sh1027.github.io/myblog/2019/04/%E3%83%96%E3%83%AD%E3%82%B0%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <description>大学2年生になり、自分で何か作ってみたいなあと思いブログを開設することにしました！ 写真が趣味(昨年の秋にミラーレスを買ってはまりました、初心</description>
     </item>
     
   </channel>

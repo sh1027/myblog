@@ -14,7 +14,7 @@
 
 baseURL = "https://sh1027.github.io/myblog"
 languageCode = "ja-jp"
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "ja"
 title = "しおりんのはっけん"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "https-sh1027-github-io-myblog"
